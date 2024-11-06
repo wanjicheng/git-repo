@@ -1,3 +1,7 @@
 This is an example
 
 add new line
+
+add another one
+
+add 2
